@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **DSA**
 
-- 📫 How to reach me **https://www.linkedin.com/in/vivek-yadav-033b85229/**
+- 📫 How to reach me  vivekyadav86706@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
