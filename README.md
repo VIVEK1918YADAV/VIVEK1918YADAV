@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek1918yadav&label=Profile%20views&color=0e75b6&style=flat" alt="vivek1918yadav" /> </p>
 
 - 🔭 I am  a B.Tech(IT) student of ABES Engineering College,Ghaziabad, Uttar Pradesh.
-- 🌱 I’m currently learning **Data Structure , JAVA**
+- 🌱 I’m currently learning **JAVA, Data Structure and Algorithm , Frontend Development(JavaScript as well Reactjs)**
 
 - 💬 Ask me about **DSA**
 
