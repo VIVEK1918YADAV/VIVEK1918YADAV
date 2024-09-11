@@ -3,10 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek1918yadav&label=Profile%20views&color=0e75b6&style=flat" alt="vivek1918yadav" /> </p>
 
-- 🔭 I am  a B.Tech(IT) student of ABES Engineering College,Ghaziabad, Uttar Pradesh.
-- 🌱 I’m currently exploring **Frontend Development(JavaScript as well as Reactjs)**
+- 🔭 I'm a software developer with over 6 months of experience. I previously worked as a software engineering intern at iNeuron.ai. I recently graduated from ABES Engineering College.
+Currently , I am interning as Software Developer in a product based company.
+- 🌱 I have proficiency in **Frontend Development(JavaScript as well as Reactjs)**
 
-- 💬 Ask me about **JAVA, Data Structure and Algorithm , Frontend Development**
+- 💬 Ask me about **JAVA, Data Structure and Algorithm , Software Development, Java Development, Frontend Development**
 
 - 📫 How to reach me  vivekyadav86706@gmail.com
 
