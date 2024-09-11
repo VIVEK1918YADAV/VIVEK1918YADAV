@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
-<h3 align="center">A Java and DSA Enthusiast</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek1918yadav&label=Profile%20views&color=0e75b6&style=flat" alt="vivek1918yadav" /> </p>
 
