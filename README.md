@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek1918yadav&label=Profile%20views&color=0e75b6&style=flat" alt="vivek1918yadav" /> </p>
 
 - 🔭 I'm Vivek Yadav, a Software Engineer with over 9 months of experience in software development. I previously worked as a Software Engineer Intern at iNeuron.ai and recently(2024) graduated from ABES Engineering College. Currently, I’m working as a Software Engineer at Aargus Infotec Pvt. Ltd.
-- 🌱 I have proficiency in **Frontend Development(JavaScript as well as Reactjs)**
+- 🌱 I have proficiency in **Java, MernStack Development**
 
-- 💬 Ask me about **JAVA, Data Structure and Algorithm , Software Development, Java Development, Frontend Development**
+- 💬 Ask me about **JAVA, Data Structure and Algorithm , Software Development, Java Development, MernStack Development**
 
-- 📫 How to reach me  vivekyadav86706@gmail.com
+- 📫 How to reach me  vivekyadav86706@gmail.com, https://www.linkedin.com/in/vivek-yadav73/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
